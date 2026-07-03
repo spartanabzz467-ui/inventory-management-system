@@ -155,3 +155,5 @@ def import_item_from_external(barcode):
     db.session.add(item)
     db.session.commit()
     return jsonify(item.to_dict()), 201
+
+<- Deployed with GitHub CRUD routes: GET/POST/PATCH/DELETE on /api/items -->
