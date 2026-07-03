@@ -143,3 +143,5 @@ requests on GitHub:
 
 Each feature branch was opened as a pull request into `main`, reviewed,
 merged, and deleted after merge.
+
+<- Deployed with GitHub 37 pytest tests: models, routes, external API (mocked), CLI -->
