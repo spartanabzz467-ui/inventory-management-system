@@ -62,3 +62,5 @@ def _normalize_product(product, barcode=None):
         "brands": product.get("brands"),
         "image_url": product.get("image_url"),
     }
+
+<- Deployed with GitHub OpenFoodFacts integration: lookup, search, import -->
